@@ -23,13 +23,13 @@ main {
 }
 #parent {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 .contents {
   border: 3px solid rgb(238, 204, 204);
   flex-basis: 25%;
   padding: 10px 15px;
-  margin: 10px 0;
+  margin: 20px 0;
   text-align: center;
 }
 h2 {
